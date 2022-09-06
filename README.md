@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)]
+[![SVG Banners](https://svg-banners.vercel.app/api?type=Hello_World&text1=Hacker%20Typer%20👨‍💻&width=800&height=200)]
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">I am passionate about computers and currently pursuing my education</h3>
 
@@ -9,8 +9,6 @@
 - 👯 I’m looking to collaborate on **Python Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shank-p](https://github.com/shank-p)
-
-- 💬 Ask me about **-**
 
 - 📫 How to reach me **shashankp.0376@gmail.com**
 

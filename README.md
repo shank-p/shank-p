@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shank-p&&theme=dark&show_icons=true&locale=en" alt="shank-p" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shank-p&&theme=dark" alt="shank-p" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shank-p&&theme=dark" alt="shank-p" /></p>
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=shank_p&&theme=dark)
 

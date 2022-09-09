@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shashankp.0376@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shashank-prithviraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank-prithviraj" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shank_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shank_p" height="30" width="40" /></a>

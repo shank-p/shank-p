@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shank-p](https://github.com/shank-p)
+- 👨‍💻 All of my projects are available at [https://github.com/shank-p?tab=repositories)
 
 - 📫 How to reach me **shashankp.0376@gmail.com**
 

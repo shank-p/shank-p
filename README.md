@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Django Framework**
 
-- 🌱 I’m currently learning **Networks, Web-Development, bit of AI**
+- 🌱 I’m currently learning **Networks,Dev Ops, bit of AI**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 

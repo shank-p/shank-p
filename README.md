@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">I am passionate about computers and currently pursuing my education</h3>
 
-- 🔭 I’m currently working on **Django Framework**
+- 🔭 I’m currently working on **Flask Framework**
 
-- 🌱 I’m currently learning **Networks,DevOps, bit of AI**
+- 🌱 I’m currently learning **Networks, AI and Web-Development**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 

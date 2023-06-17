@@ -1,12 +1,12 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello%20World%20!&width=850&height=200)
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Nice%20to%20meet%20You%20!&width=850&height=200)
 <h1 align="center">Hi 👋, I'm Shashank</h1>
-<h3 align="center">I am passionate about computers and currently pursuing my education</h3>
+<h3 align="center">I am passionate about computers sciences and currently pursuing my education</h3>
 
-- 🔭 I’m currently working on **Flask Framework**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Networks, AI and Web-Development**
+- 🌱 I’m currently learning **Rust, Python, TypeScript and more. **
 
-- 👯 I’m looking to collaborate on **Python Projects**
+- 👯 I’m looking to collaborate on **Web projects**
 
 - 👨‍💻 All of my projects are available at https://github.com/shank-p?tab=repositories
 

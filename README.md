@@ -1,4 +1,4 @@
-<span align="center">![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20👋,%20I'm%20Shashank&width=1000&height=150)</span>
+<span align="center">![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20👋,%20I'm%20Shashank|&width=1000&height=150)</span>
 <br>
 
 - 🔭 I’m currently working as a **Full Stack Web Developer**

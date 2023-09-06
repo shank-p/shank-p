@@ -24,5 +24,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shank-p&&theme=dark" alt="shank-p" /></p>
 
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=shank_p&&theme=dark)
-

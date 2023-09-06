@@ -1,16 +1,11 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Nice%20to%20meet%20You%20!&width=850&height=200)
 <h1 align="center">Hi 👋, I'm Shashank</h1>
-<h3 align="center">I am passionate about computers sciences and currently pursuing my education</h3>
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+- 🔭 I’m currently working as a **Full Stack Web Developer**
 
-- 🌱 I’m currently learning **Rust, Python, TypeScript and more.**
-
-- 👯 I’m looking to collaborate on **Web projects**
+- 🌱 I’m currently learning **Rust, Python.**
 
 - 👨‍💻 All of my projects are available at https://github.com/shank-p?tab=repositories
-
-- 📫 How to reach me **shashankp.0376@gmail.com**
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
